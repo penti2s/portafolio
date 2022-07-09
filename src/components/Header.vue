@@ -29,9 +29,6 @@ export default {
         background: #3F51B5;
         height: 100vh;
     }
-    #center{
-
-    }
 
 
 </style>
